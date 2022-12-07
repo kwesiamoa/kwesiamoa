@@ -1,5 +1,7 @@
 ### Hello There, My name is Kwesi 👋
 📫 How to reach me: ... usually via email
+⚡ Fun fact: ... I am learning about ways to recycle and to re-purpose plastic waste responsibly
+😄 Pronouns: ... He/His
 
 <!--
 **kwesiamoa/kwesiamoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
