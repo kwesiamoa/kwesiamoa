@@ -1,5 +1,5 @@
 ### Hello There, My name is Kwesi 👋
-📫 How to reach me: ... usually via email
+📫 How to reach me: ... usually via email <br>
 ⚡ Fun fact: ... I am learning about ways to recycle and to re-purpose plastic waste responsibly
 😄 Pronouns: ... He/His
 
