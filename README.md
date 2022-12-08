@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am learning about ways to recycle plastic waste responsibly
 -->
 [![Kwesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwesiamoa)](https://github.com/kwesiamoa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwesiamoa)](https://github.com/kwesiamoa/github-readme-stats)
