@@ -1,11 +1,11 @@
+<p align="center">
+  <img src="https://github.com/kwesiamoa/kwesiamoa/blob/main/banner_kwesi_white.png" alt="my banner"></a>
+</p>
+
 ### Hello There, My name is Kwesi 👋
 📫 How to reach me: ... usually via email <br>
 ⚡ Fun fact: ... I am learning about ways to recycle and to re-purpose plastic waste responsibly <br>
 😄 Pronouns: ... He/His
-
-<p align="center">
-  <img src="https://github.com/kwesiamoa/kwesiamoa/blob/main/banner_kwesi_white.png" alt="my banner"></a>
-</p>
 
 <!--
 **kwesiamoa/kwesiamoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
