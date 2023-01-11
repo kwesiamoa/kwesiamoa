@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kwesiamoa/kwesiamoa/blob/main/banner_kwesi_wh_sm.png" alt="Kwesi Amoa's banner"></a>
+  <img src="https://github.com/kwesiamoa/kwesiamoa/blob/main/kwesi Amoa Devops.png" alt="Kwesi Amoa's banner"></a>
 </p>
 
 ### Hello There, My name is Kwesi 👋
